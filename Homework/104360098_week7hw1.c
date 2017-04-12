@@ -48,7 +48,7 @@ void initialize_choice(choice_t choice[]) {  //initialize all the choice
         choice[i].NL = false;
     }
 }
-int  inputData_split(char str[]) {  //split the string
+int inputData_split(char str[]) {  //split the string
     int i, counter = 0, length;
     length = strlen(str);
     for (i = 0; i < length; i++) {
