@@ -1,4 +1,5 @@
 #include <stdio.h>
+/*Computer Programming (II), Coded by Leung Ho Kwan 104360098*/
 void printmap(int n, int map[][20]) {
     int i, j;
     for (i = 0; i < n; i++) {
