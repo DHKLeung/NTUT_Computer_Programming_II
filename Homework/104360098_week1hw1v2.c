@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdbool.h>
+/*Computer Programming (II), Coded by Leung Ho Kwan 104360098*/
 void split(int array[], int value) {
     array[0] = value / 1000;
     array[1] = (value - array[0] * 1000) / 100;
