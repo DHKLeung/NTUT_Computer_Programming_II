@@ -1,4 +1,5 @@
 #include <stdio.h>
+/*Computer Programming (II), Coded by Leung Ho Kwan 104360098*/
 void initial(int relations[][20]) {
     int i, j;
     for (i = 0; i < 20; i++) {
