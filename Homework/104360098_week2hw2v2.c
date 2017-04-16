@@ -65,7 +65,6 @@ void process() {
     initial(relations);
     scanf("%d", &n);
     input_fill(relations, n);
-    printrelations(relations, n);
     printresult(relations, n);
 }
 int main(int argc, char **argv) {
