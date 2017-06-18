@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
+/*Computer Programming (II), Coded by Leung Ho Kwan 104360098*/
 typedef struct node node_t;
 struct node {
     int id;
